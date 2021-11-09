@@ -1,1 +1,1 @@
-echo "# GoalDiggers" >> README.md"# GoalDiggers" 
+# GoalDiggers" 
